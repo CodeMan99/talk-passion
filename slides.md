@@ -1,12 +1,12 @@
 ---
 theme: default
-title: Slide Template
-author: Real Name
+title: Camping Passion
+author: Cody Taylor
 lineNumbers: true
 fonts:
   mono: Jetbrains Mono
 ---
 
-# slide template
+# Camping Passion
 
-A simple template repository that publishes to GitHub pages.
+A fantastic way to vacation
