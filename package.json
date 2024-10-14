@@ -5,7 +5,7 @@
   "license": "(MIT OR CC-BY-SA-4.0)",
   "scripts": {
     "build": "slidev build",
-    "dev": "slidev --open",
+    "dev": "slidev --open --remote --bind 0.0.0.0",
     "export": "slidev export",
     "spellcheck": "aspell --mode=markdown check slides.md"
   },
