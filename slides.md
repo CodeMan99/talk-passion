@@ -86,31 +86,47 @@ The next best part is exploring new things!
 - Different Foods
 
 ---
+layout: two-cols-header
+---
 
 # Challenges
 
 Owning a travel trailer comes with a unique set of challenges
 
-- Knowing your tow vehicle - there is a lot more than just "Towing Capacity"
-    - GVWR 
-    - GCWR
-    - GAWR - Front, Rear, & Trailer
-    - Tow Rating
-    - Max Hitch
+::left::
+
+- Legal requirements of towing safely
+    1. GVWR
+    2. GCWR
+    3. GAWR - Front, Rear, & Trailer
+    4. Tow Rating
+    5. Max Hitch
 - Maintenance of the trailer
-    - Tire Pressure
-    - Propane
-    - Refrigerator
-    - Water & Waste Holding Tanks
-    - Loading Balance
-    - Roof Seal
-    - Greasing Moving Parts - Wheel Bearings, Coupler, Doors, Locks, and Slides
+    1. Tire Pressure
+    2. Propane
+    3. Water & Waste Holding Tanks
+    4. Refrigerator
+
+::right::
+
+- Maintanence of the trailer (continued)
+    <ol start="5">
+    <li>Loading Balance</li>
+    <li>Roof Seal</li>
+    <li>Greasing Moving Parts - Wheel Bearings, Coupler, Doors, Locks, and Slides</li>
+    </ol>
 - Towing confidence
-    - Being safe in traffic
-    - Knowing the length of your setup
-    - Stopping power & distance
-    - Acceleration power
-    - Dealing with winds
+    1. Being safe in traffic
+    2. Stopping power & distance
+    3. Dealing with winds
+    4. Knowing the length of your setup
+    5. Acceleration power
+
+<style>
+    .two-cols-header {
+        grid-template-rows: unset;
+    }
+</style>
 
 ---
 
