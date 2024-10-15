@@ -7,7 +7,7 @@ fonts:
   mono: Jetbrains Mono
 ---
 
-# Camping Passion
+# <map-campground></map-campground> Camping Passion
 
 A fantastic way to vacation
 
@@ -17,10 +17,10 @@ A fantastic way to vacation
 
 We use camping as a way to enjoy
 
-- Traveling
-- Family Time
-- The Outdoors
-- Meals over the Campfire
+- <majesticons-map-simple-destination></majesticons-map-simple-destination> Traveling
+- <material-symbols-family-restroom></material-symbols-family-restroom> Family Time
+- <material-symbols-forest></material-symbols-forest> The Outdoors
+- <mdi-campfire></mdi-campfire> Meals over the Campfire
 
 ---
 
@@ -28,9 +28,9 @@ We use camping as a way to enjoy
 
 For us camping does not include
 
-- "Roughing It"
-- Non-stop Hiking
-- A "Fully-Furnished" Destination
+- <bi-moon-stars-fill></bi-moon-stars-fill> _Roughing It_
+- <material-symbols-hiking></material-symbols-hiking> Non-stop Hiking
+- <mingcute-bowknot-line></mingcute-bowknot-line> A "Fully-Furnished" Destination
 
 ---
 
@@ -38,9 +38,9 @@ For us camping does not include
 
 Most trips include the following
 
-- 2004 RAM 2500 with HO Cummings
-- 2021 Apex Nano 194 BHS
-- Bicycles
+- <mdi-car-pickup></mdi-car-pickup> 2004 RAM 2500 with HO Cummings
+- <mdi-truck-trailer></mdi-truck-trailer> 2021 Apex Nano 194 BHS
+- <mdi-bicycle></mdi-bicycle> Bicycles
 
 ---
 
@@ -48,9 +48,20 @@ Most trips include the following
 
 For a week long vacation we enjoy destinations such as
 
-- Hershey Park
-- Yogi Bear's Jellystone Campgrounds
-- Lake destinations - such as Pymatuning
+- <img class="inline-block size-20 mr-4" src="/hersheypark-icon.svg"> Hershey Park
+- <img class="inline-block size-20 mr-4" src="/campjellystone-icon.png"> Yogi Bear's Jellystone Campgrounds
+- <img class="inline-block size-20 mr-4" src="/ohio-cardinal-icon.svg"> Natural Destinations
+
+<style>
+    li {
+        margin-bottom: 1.5rem;
+    }
+</style>
+
+<!--
+Natural Destinations include forests, lakes, rivers, etc - Using the icon
+from [Ohio Department of Natural Resources](https://ohiodnr.gov/go-and-do/plan-a-visit/find-a-property/pymatuning-state-park).
+-->
 
 ---
 
@@ -66,14 +77,14 @@ For shorter stays we enjoy a variety of destinations
 
 # Typical Activities
 
-The most important part of camping is activities that are difficult at home
+The most enjoyable part of camping is doing activities that are difficult at home
 
-- Campfires
-- Swimming
-- Cornhole
-- Riding Bikes
-- Disc Golf
-- Horseshoes
+- <mdi-campfire></mdi-campfire> Campfires
+- <mdi-swim></mdi-swim> Swimming
+- <mdi-corn></mdi-corn> <mdi-circle-box></mdi-circle-box> Cornhole
+- <mdi-bicycle></mdi-bicycle> Riding Bikes
+- <tabler-golf></tabler-golf> Disc Golf
+- <mdi-horseshoe></mdi-horseshoe> Horseshoes
 
 ---
 
@@ -81,9 +92,9 @@ The most important part of camping is activities that are difficult at home
 
 The next best part is exploring new things!
 
-- Renting a Boat
-- Archery
-- Different Foods
+- <map-boating></map-boating> Renting a Boat
+- <map-archery></map-archery> Archery
+- <map-food></map-food> Different Foods
 
 ---
 layout: two-cols-header
@@ -95,13 +106,13 @@ Owning a travel trailer comes with a unique set of challenges
 
 ::left::
 
-- Legal requirements of towing safely
+- <map-lawyer></map-lawyer> Legal requirements of towing safely
     1. GVWR
     2. GCWR
     3. GAWR - Front, Rear, & Trailer
     4. Tow Rating
     5. Max Hitch
-- Maintenance of the trailer
+- <mdi-wrench></mdi-wrench> Maintenance of the trailer
     1. Tire Pressure
     2. Propane
     3. Water & Waste Holding Tanks
@@ -109,13 +120,13 @@ Owning a travel trailer comes with a unique set of challenges
 
 ::right::
 
-- Maintanence of the trailer (continued)
+- <mdi-wrench></mdi-wrench> Maintanence of the trailer (continued)
     <ol start="5">
     <li>Loading Balance</li>
     <li>Roof Seal</li>
     <li>Greasing Moving Parts - Wheel Bearings, Coupler, Doors, Locks, and Slides</li>
     </ol>
-- Towing confidence
+- <mdi-check-bold></mdi-check-bold> Towing confidence
     1. Being safe in traffic
     2. Stopping power & distance
     3. Dealing with winds
@@ -134,11 +145,11 @@ Owning a travel trailer comes with a unique set of challenges
 
 With all the challenges, what advantages does a travel trailer provide?
 
-- Outdoor spaces for activities
-- A campground serves as a small community
-- Some control over the destination comforts
-- Enables typical calendar planning with less concern about weather
-- Our own space when visiting family
+- <mingcute-maple-leaf-line></mingcute-maple-leaf-line> Outdoor spaces for activities
+- <map-playground></map-playground> A campground serves as a small community
+- <material-symbols-wifi></material-symbols-wifi> Some control over the destination comforts
+- <material-symbols-weather-mix-outline></material-symbols-weather-mix-outline> Enables typical calendar planning with less concern about weather
+- <material-symbols-family-home-outline-rounded></material-symbols-family-home-outline-rounded> Our own space when visiting family
 
 ---
 
