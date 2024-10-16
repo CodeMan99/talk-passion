@@ -107,15 +107,18 @@ For shorter stays we enjoy a variety of destinations
 - East Broad Top Railroad
 
 ---
+layout: image-right
+image: /smore.jpg
+---
 
 # Typical Activities
 
 The most enjoyable part of camping is doing activities that are difficult at home
 
-- <mdi-campfire></mdi-campfire> Campfires
+- <mdi-bicycle></mdi-bicycle> Riding Bikes
 - <mdi-swim></mdi-swim> Swimming
 - <mdi-corn></mdi-corn> <mdi-circle-box></mdi-circle-box> Cornhole
-- <mdi-bicycle></mdi-bicycle> Riding Bikes
+- <mdi-campfire></mdi-campfire> Campfires
 - <tabler-golf></tabler-golf> Disc Golf
 - <mdi-horseshoe></mdi-horseshoe> Horseshoes
 
