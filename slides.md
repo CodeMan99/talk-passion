@@ -220,7 +220,22 @@ With all the challenges, what advantages does a travel trailer provide?
 </style>
 
 ---
+layout: image
+image: /campfire-chicken-roast.jpg
+---
 
 # Favorite Meal
 
 Campfire Chicken Roast
+
+<style>
+    h1 {
+        text-shadow: #de78de 1px 2px 10px;
+    }
+
+    h1 + p {
+        text-shadow: #000 2px 2px 4px;
+        text-decoration: #de78de7f underline solid 1px;
+        text-underline-offset: 0.1875rem;
+    }
+</style>
