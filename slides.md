@@ -67,14 +67,17 @@ Most trips include the following
 </style>
 
 ---
+layout: image-right
+image: /yogi-bear.jpg
+---
 
-# Example Major Destinations
+# Major Destinations
 
 For a week long vacation we enjoy destinations such as
 
-- <img class="inline-block size-20 mr-4" src="/hersheypark-icon.svg"> Hershey Park
-- <img class="inline-block size-20 mr-4" src="/campjellystone-icon.png"> Yogi Bear's Jellystone Campgrounds
-- <img class="inline-block size-20 mr-4" src="/ohio-cardinal-icon.svg"> Natural Destinations
+- <img class="inline-block size-20 mr-2" src="/hersheypark-icon.svg"> Hershey Park
+- <img class="inline-block size-20 mr-2" src="/campjellystone-icon.png"> Yogi Bear's Jellystone Campgrounds
+- <img class="inline-block size-20 mr-2" src="/ohio-cardinal-icon.svg"> Natural Destinations
 
 <style>
     ul { list-style-type: none; }
@@ -91,8 +94,11 @@ from [Ohio Department of Natural Resources](https://ohiodnr.gov/go-and-do/plan-a
 -->
 
 ---
+layout: image-left
+image: /east-broadtop-rr.jpg
+---
 
-# Example Weekend Destinations
+# Weekend Destinations
 
 For shorter stays we enjoy a variety of destinations
 
