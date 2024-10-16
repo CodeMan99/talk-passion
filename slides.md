@@ -49,6 +49,9 @@ For us camping does not include
 </style>
 
 ---
+layout: image-left
+image: /camping-equipment.jpg
+---
 
 # Equipment
 
